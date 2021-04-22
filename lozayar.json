@@ -1,14 +1,13 @@
 {
     "DEFAULTS": {
-        "AUTHORS": ["YETKILI ID"],
-        "ACTIVITY_TEXT": "ACIKLAMA",
-        "GUILD_ID": "SUNUCU ID",
-        "VOICE_CHANNEL": "KANAL ID",
-        "MIN_STAFF_ROLE": "YETKILI ROL ID"
+        "AUTHORS": ["826008567265493060"],
+        "ACTIVITY_TEXT": "Welcome To Leland",
+        "GUILD_ID": "826008566900326421",
+        "VOICE_CHANNEL": "826008567857414175",
+        "MIN_STAFF_ROLE": "826008567265493060"
     },
     "FILES": {
         "WELCOME": "ses/hosgeldin.mp3",
         "STAFF": "ses/yetkili.mp3"
-    },
-    "TOKEN": "TOKEN"
+    }
 } 
